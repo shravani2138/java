@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class matrix
+class Matrix
 {
   public static void main(String[] args)
      {
@@ -27,6 +27,9 @@ void getmatrixele()
 				b[i][j] = sc.netInt();
                    	   }
                     }
+
+     }
+}
 void addmatrix()
 	  {
 		System.out.print("\n addition of matrix :");
