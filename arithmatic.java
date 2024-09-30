@@ -23,3 +23,4 @@ class arithmatic
 		System.out.println("division" + div);
 		}
    }		
+   
